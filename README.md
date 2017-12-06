@@ -186,7 +186,7 @@ Awesome-iOS 对于需要某个功能的人来说，是一个非常棒的列表�
 
 # Libraries And Frameworks
 
-## 分析
+## Analytics
 * [Mixpanel](https://mixpanel.com/) - 先进的分析平台。
 * [Localytics](https://www.localytics.com/) - 将应用营销和分析结合在一起。
 * [Answers by Fabric](https://answers.io/) - Answers 可以让你实时了解用户在你的应用中的体验。
@@ -201,7 +201,7 @@ Awesome-iOS 对于需要某个功能的人来说，是一个非常棒的列表�
 * [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting/) - 使用免费的层进行错误跟踪。错误报告包括设备上的数据，发布，用户，以及允许任意的数据。
 * [Inapptics](https://inapptics.com) - 帮助分析和可视化移动应用中的用户行为。提供可视化的用户旅程，热图和崩溃的回放。
 
-## App 路由
+## App Routing
 * [WAAppRouting](https://github.com/Wasappli/WAAppRouting) - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
 * [DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
 * [IntentKit](https://github.com/intentkit/IntentKit) - An easier way to handle third-party URL schemes in iOS apps.
