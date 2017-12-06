@@ -17,15 +17,15 @@
 Swift的项目将会被标记为🔶，Swift的扩展将被标记为🔶[e]，Apple Watch的项目将会被标记为⌚。您可以随意添加您的项目。
 
 # 如何使用
-Awesome-iOS 对于需要某个功能的人来说，Awesome-iOS 是一个非常棒的列表，所以最好的使用方法是:
-- 到我们的 [Twitter](https://twitter.com/awesome_ios) 或者 [Gitter Channel](https://gitter.im/vsouza/awesome-ios)上寻求帮助。
+Awesome-iOS 对于需要某个功能的人来说，是一个非常棒的列表，所以最好的使用方法是:
+- 到我们的 [Twitter](https://twitter.com/awesome_ios) 或 [Gitter Channel](https://gitter.im/vsouza/awesome-ios) 上寻求帮助。
 - 按住 <kbd>command</kbd> + <kbd>F</kbd> 搜索关键字。
 - 浏览我们的*内容菜单*
 
 ## 内容
-- [关于](#about)
-- [如何使用](#how-to-use)
-- [Getting Started](#getting-started)
+- [关于](#关于)
+- [如何使用](#如何使用)
+- [开始](#开始)
 - [Library and Frameworks](#libraries-and-frameworks)
     - [Analytics](#analytics)
     - [App Routing](#app--routing)
@@ -173,16 +173,16 @@ Awesome-iOS 对于需要某个功能的人来说，Awesome-iOS 是一个非常�
 - [Contributing](#contributing-and-license)
 
 ***
-# Getting Started
-* [Start Developing with iOS](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Apple Guide. :large_orange_diamond:
-* [Lifehacker](https://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
-* [CodeProject](https://www.codeproject.com/articles/88929/getting-started-with-iphone-and-ios-development) - Getting Started with iPhone and iOS Development.
-* [Ray Wenderlich](https://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
+# 开始
+* [Start Developing with iOS](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - 苹果开发指南。🔶
+* [Lifehacker](https://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - 写一个 iOS 应用程序，该从哪开始?
+* [CodeProject](https://www.codeproject.com/articles/88929/getting-started-with-iphone-and-ios-development) - 从iPhone和iOS开发开始。
+* [Ray Wenderlich](https://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming) - 学习编写 iOS 应用程序。
 * [Stanford - Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for-iphone-and-ipad/id733644550)
-* [Stanford - Developing iOS 10 Apps with Swift](https://itunes.apple.com/in/course/developing-ios-10-apps-swift/id1198467120) - Stanford's 2017 iTunes U course. :large_orange_diamond:
+* [Stanford - Developing iOS 10 Apps with Swift](https://itunes.apple.com/in/course/developing-ios-10-apps-swift/id1198467120) - 斯坦福大学2017年iTunes U课程。🔶
 * [Programming with Objective-C by Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 * [Object-Oriented Programming with Objective-C by Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
-* [Udacity: Start A Career Developing iOS Apps](https://www.udacity.com/course/ios-developer-nanodegree--nd003?v=ios1) - Udacity's intro course on writing iOS apps [Paid Resource] :large_orange_diamond:
+* [Udacity: Start A Career Developing iOS Apps](https://www.udacity.com/course/ios-developer-nanodegree--nd003?v=ios1) - Udacity 关于编写iOS应用程序的入门课程 [Paid Resource] 🔶
 
 # Libraries And Frameworks
 
