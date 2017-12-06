@@ -8,24 +8,23 @@
 [![Language](https://awesomelinkcounter.herokuapp.com/objc)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-## We've launched our Newsletter!! ✅🚀📰
-* [Check out our new website 🗞](http://weekly.awesomeios.com/)
+## 我们的时事通讯!! ✅🚀📰
+* [看看我们的新网站 🗞](http://weekly.awesomeios.com/)
 
-# About
-A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
-The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md).
+# 关于
+这是一个精选的iOS框架、库、教程、Xcode插件和插件、组件等等。该列表分为框架、组件、测试等类别，开放源代码项目、免费和付费服务。在每个类别中项目顺序不分先后，顺序是按贡献时间排列的。如果你想做贡献，请阅读[指南](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)。
 
-Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
+Swift的项目将会被标记为🔶，Swift的扩展将被标记为🔶[e]，Apple Watch的项目将会被标记为⌚。您可以随意添加您的项目。
 
-# How to Use
-Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
-- Ask for help on our [Twitter](https://twitter.com/awesome_ios) or [Gitter Channel](https://gitter.im/vsouza/awesome-ios)
-- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
-- Go through our *Content Menu*
+# 如何使用
+Awesome-iOS 对于需要某个功能的人来说，Awesome-iOS 是一个非常棒的列表，所以最好的使用方法是:
+- 到我们的 [Twitter](https://twitter.com/awesome_ios) 或者 [Gitter Channel](https://gitter.im/vsouza/awesome-ios)上寻求帮助。
+- 按住 <kbd>command</kbd> + <kbd>F</kbd> 搜索关键字。
+- 浏览我们的*内容菜单*
 
-## Content
-- [About](#about)
-- [How to Use](#how-to-use)
+## 内容
+- [关于](#about)
+- [如何使用](#how-to-use)
 - [Getting Started](#getting-started)
 - [Library and Frameworks](#libraries-and-frameworks)
     - [Analytics](#analytics)
