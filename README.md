@@ -182,26 +182,26 @@ Awesome-iOS 对于需要某个功能的人来说，是一个非常棒的列表�
 * [Stanford - Developing iOS 10 Apps with Swift](https://itunes.apple.com/in/course/developing-ios-10-apps-swift/id1198467120) - 斯坦福大学2017年iTunes U课程。🔶
 * [Programming with Objective-C by Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 * [Object-Oriented Programming with Objective-C by Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
-* [Udacity: Start A Career Developing iOS Apps](https://www.udacity.com/course/ios-developer-nanodegree--nd003?v=ios1) - Udacity 关于编写iOS应用程序的入门课程 [Paid Resource] 🔶
+* [Udacity: Start A Career Developing iOS Apps](https://www.udacity.com/course/ios-developer-nanodegree--nd003?v=ios1) - Udacity 关于编写iOS应用程序的入门课程 [Paid Resource]。🔶
 
 # Libraries And Frameworks
 
-## Analytics
-* [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
-* [Localytics](https://www.localytics.com/) - Brings app marketing and analytics together.
-* [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
-* [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
-* [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
-* [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
-* [Segment](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
-* [MOCA Analytics](https://mocaplatform.com/features) - Paid cross-platform analytics backend.
-* [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
-* [Abbi](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
-* [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
-* [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting/) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
-* [Inapptics](https://inapptics.com) - Helps analyze and visualize user behavior in mobile apps. Provides visual user journeys, heatmaps and crash replays.
+## 分析
+* [Mixpanel](https://mixpanel.com/) - 先进的分析平台。
+* [Localytics](https://www.localytics.com/) - 将应用营销和分析结合在一起。
+* [Answers by Fabric](https://answers.io/) - Answers 可以让你实时了解用户在你的应用中的体验。
+* [Liquid Analytics](https://onliquid.com) - 通过分析识别行为，并与实时个性化进行互动。
+* [GTrack](https://github.com/gemr/GTrack) - 轻量级的 Objective-C 封装 Google Analytics 的 iOS SDK 有些额外的好处。
+* [ARAnalytics](https://github.com/orta/ARAnalytics) - 分析抽象库提供一个用于跟踪事件和用户数据的合理的API。
+* [Segment](https://github.com/segmentio/analytics-ios) - 一站式服务的方式将分析集成到任意 iOS 应用程序。
+* [MOCA Analytics](https://mocaplatform.com/features) - 跨平台的分析后端。
+* [Countly](https://count.ly) - 开源、移动和网络分析、崩溃报告以及 iOS 和 Android 的推送通知平台。
+* [Abbi](https://github.com/abbiio/iosdk) - 一个开发者可以管理和最大化所有应用内促销的转换的简单的 SDK。
+* [devtodev](https://www.devtodev.com/) - 全面的分析服务，可以改进你的项目，为产品开发节省时间。
+* [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting/) - 使用免费的层进行错误跟踪。错误报告包括设备上的数据，发布，用户，以及允许任意的数据。
+* [Inapptics](https://inapptics.com) - 帮助分析和可视化移动应用中的用户行为。提供可视化的用户旅程，热图和崩溃的回放。
 
-## App Routing
+## App 路由
 * [WAAppRouting](https://github.com/Wasappli/WAAppRouting) - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
 * [DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
 * [IntentKit](https://github.com/intentkit/IntentKit) - An easier way to handle third-party URL schemes in iOS apps.
